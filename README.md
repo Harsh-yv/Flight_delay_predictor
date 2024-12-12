@@ -1,7 +1,7 @@
 # Flight Delay and Cancellation Prediction
 
 ## **Overview**
-This project aims to predict whether a flight will be delayed, cancelled, or diverted based on historical flight data. By utilizing machine learning models, the solution helps airlines and passengers better anticipate potential disruptions.
+This project aims to predict whether a flight will be delayed, cancelled, or diverted based on historical flight data.
 
 ---
 
