@@ -1,7 +1,5 @@
 # Flight Delay and Cancellation Prediction
 
-This project aims to detect fake news using machine learning techniques. It utilizes a dataset of news articles and employs a Logistic Regression model to classify news as either fake or real.
-
 ## **Overview**
 This project aims to predict whether a flight will be delayed, cancelled, or diverted based on historical flight data. By utilizing machine learning models, the solution helps airlines and passengers better anticipate potential disruptions.
 
